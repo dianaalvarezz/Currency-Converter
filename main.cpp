@@ -5,15 +5,20 @@
 
 int main()
 {
+    // Declare variables 
     std::string currency;
     std::string newcurrency;
     std::string confirmation;
+
+    // Initalize Varibales to 0
     int amount = 0;
     double converted = 0;
 
+    // Ask user what type of currency that would like to convert (they will enter a string)
     std::cout << "What type of currency do you want to convert?" << std::endl;
     std::cin >> currency;
 
+    // Converts user currency to lowercase
     for (char& c : currency)
     {
         c = std::tolower(c);
