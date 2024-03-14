@@ -1,1 +1,26 @@
-I add later
+# Currency Calculator
+
+## Introduction
+
+Welcome to the Currency Calculator! This project is a user-friendly, simplified currency converter designed to facilitate quick and easy currency exchanges. Whether you need to calculate exchanges for travel, business, or personal interest, this tool is built to provide you with accurate conversions in just a few simple steps.
+
+## Features
+
+- **Simple Interface**: Users are prompted to input the source currency, target currency, and amount they wish to convert, making the process straightforward and accessible to everyone.
+- **Support for Multiple Currencies**: Initially supporting key currencies such as Euros, Pounds, Francs, and Yen, with plans to expand to a wider range of currencies.
+- **Built with C++**: Leveraging the power of C++, this calculator offers efficient and reliable conversions, showcasing how versatile and powerful programming can be in solving real-world problems.
+
+## Getting Started
+
+To get started with the Currency Calculator, follow these steps:
+
+### Requirements
+
+- A C++ compiler (e.g., GCC, Clang)
+- Basic knowledge of terminal or command prompt usage
+
+### Installation Instructions
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/currency-calculator.git
