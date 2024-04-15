@@ -70,7 +70,7 @@ int main()
         std::cout << "Invalid input!" << std::endl << std::endl;
     }
 
-    
+    // Convert the new currency into dollar
     if (newcurrency == "euro")
         converted = dollar * .92;
     else if (newcurrency == "pounds")
